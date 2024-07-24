@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/369f233c57d544719fb5ffe708a34db5/artifacts
+deleted_time: 1721844567027
+end_time: 1720339509718
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 369f233c57d544719fb5ffe708a34db5
+run_name: fearless-ant-27
+run_uuid: 369f233c57d544719fb5ffe708a34db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720339508874
+status: 4
+tags: []
+user_id: felip

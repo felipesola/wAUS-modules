@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/682020a512ee4e8c9a3d06c46a4adea8/artifacts
+deleted_time: 1721844566947
+end_time: 1720393345809
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 682020a512ee4e8c9a3d06c46a4adea8
+run_name: loud-squid-372
+run_uuid: 682020a512ee4e8c9a3d06c46a4adea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720393345715
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/3224243454944bf0b6850188dcd65ff6/artifacts
+deleted_time: 1721844567064
+end_time: 1720337430226
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 3224243454944bf0b6850188dcd65ff6
+run_name: peaceful-snail-573
+run_uuid: 3224243454944bf0b6850188dcd65ff6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720337429224
+status: 4
+tags: []
+user_id: felip

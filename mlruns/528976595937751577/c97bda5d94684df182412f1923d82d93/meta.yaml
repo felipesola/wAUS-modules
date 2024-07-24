@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/c97bda5d94684df182412f1923d82d93/artifacts
+end_time: 1721475477096
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: c97bda5d94684df182412f1923d82d93
+run_name: learned-gull-578
+run_uuid: c97bda5d94684df182412f1923d82d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721475450902
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/cbc3f2943aaa4c9ab886fc88f67352c2/artifacts
+deleted_time: 1721844566894
+end_time: 1721254447388
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: cbc3f2943aaa4c9ab886fc88f67352c2
+run_name: secretive-carp-767
+run_uuid: cbc3f2943aaa4c9ab886fc88f67352c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721254434667
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/0c771a5cea794d06aa53b10b2910dae0/artifacts
+end_time: 1721845676573
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: 0c771a5cea794d06aa53b10b2910dae0
+run_name: loud-midge-831
+run_uuid: 0c771a5cea794d06aa53b10b2910dae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721845657254
+status: 3
+tags: []
+user_id: felip

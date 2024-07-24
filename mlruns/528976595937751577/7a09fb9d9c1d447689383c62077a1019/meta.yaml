@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/7a09fb9d9c1d447689383c62077a1019/artifacts
+deleted_time: 1721844566903
+end_time: 1720402149598
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 7a09fb9d9c1d447689383c62077a1019
+run_name: traveling-grub-969
+run_uuid: 7a09fb9d9c1d447689383c62077a1019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720402127505
+status: 3
+tags: []
+user_id: felip

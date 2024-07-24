@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/0/91c8b5f3a6fc4e6a8921e031f115f47c/artifacts
+deleted_time: 1720402269201
+end_time: 1720338243763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 91c8b5f3a6fc4e6a8921e031f115f47c
+run_name: legendary-cod-530
+run_uuid: 91c8b5f3a6fc4e6a8921e031f115f47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720338243673
+status: 4
+tags: []
+user_id: felip

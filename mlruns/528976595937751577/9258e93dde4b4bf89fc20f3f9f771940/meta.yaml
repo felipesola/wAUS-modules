@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/9258e93dde4b4bf89fc20f3f9f771940/artifacts
+deleted_time: 1721845932840
+end_time: 1721844986993
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 9258e93dde4b4bf89fc20f3f9f771940
+run_name: funny-conch-735
+run_uuid: 9258e93dde4b4bf89fc20f3f9f771940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721844967196
+status: 3
+tags: []
+user_id: felip

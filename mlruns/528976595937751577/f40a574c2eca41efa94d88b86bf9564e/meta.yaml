@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/f40a574c2eca41efa94d88b86bf9564e/artifacts
+deleted_time: 1721844567012
+end_time: 1720340408993
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: f40a574c2eca41efa94d88b86bf9564e
+run_name: sincere-ape-780
+run_uuid: f40a574c2eca41efa94d88b86bf9564e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720340408247
+status: 4
+tags: []
+user_id: felip

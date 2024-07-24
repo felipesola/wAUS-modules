@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/c5539aeec292414bb978a73daff8cce7/artifacts
+deleted_time: 1721844566920
+end_time: 1720399312675
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: c5539aeec292414bb978a73daff8cce7
+run_name: shivering-fawn-141
+run_uuid: c5539aeec292414bb978a73daff8cce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720399305153
+status: 4
+tags: []
+user_id: felip

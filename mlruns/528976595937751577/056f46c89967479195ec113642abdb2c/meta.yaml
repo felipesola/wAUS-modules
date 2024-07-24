@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/056f46c89967479195ec113642abdb2c/artifacts
+end_time: 1720412450107
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: 056f46c89967479195ec113642abdb2c
+run_name: victorious-foal-548
+run_uuid: 056f46c89967479195ec113642abdb2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720412415898
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/5bf35248135a4f2492846eebe868b0e3/artifacts
+deleted_time: 1721844567040
+end_time: 1720338334256
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 5bf35248135a4f2492846eebe868b0e3
+run_name: useful-stag-420
+run_uuid: 5bf35248135a4f2492846eebe868b0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720338333419
+status: 4
+tags: []
+user_id: felip

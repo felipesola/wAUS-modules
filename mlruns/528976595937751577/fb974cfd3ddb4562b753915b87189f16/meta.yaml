@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/fb974cfd3ddb4562b753915b87189f16/artifacts
+deleted_time: 1721844566958
+end_time: 1720393233678
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: fb974cfd3ddb4562b753915b87189f16
+run_name: calm-bat-808
+run_uuid: fb974cfd3ddb4562b753915b87189f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720393233578
+status: 4
+tags: []
+user_id: felip

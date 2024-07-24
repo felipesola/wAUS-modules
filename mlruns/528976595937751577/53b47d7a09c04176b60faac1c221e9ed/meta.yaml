@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/53b47d7a09c04176b60faac1c221e9ed/artifacts
+deleted_time: 1721844566944
+end_time: 1720396466341
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 53b47d7a09c04176b60faac1c221e9ed
+run_name: puzzled-mole-734
+run_uuid: 53b47d7a09c04176b60faac1c221e9ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720396466205
+status: 4
+tags: []
+user_id: felip

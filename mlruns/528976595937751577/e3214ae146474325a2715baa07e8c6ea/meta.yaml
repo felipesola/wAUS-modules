@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/e3214ae146474325a2715baa07e8c6ea/artifacts
+deleted_time: 1721844567017
+end_time: 1720340015414
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: e3214ae146474325a2715baa07e8c6ea
+run_name: unique-snipe-75
+run_uuid: e3214ae146474325a2715baa07e8c6ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720340014619
+status: 4
+tags: []
+user_id: felip

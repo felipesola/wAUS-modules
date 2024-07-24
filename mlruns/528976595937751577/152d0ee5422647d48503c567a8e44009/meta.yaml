@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/152d0ee5422647d48503c567a8e44009/artifacts
+end_time: 1721303551852
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: 152d0ee5422647d48503c567a8e44009
+run_name: sassy-deer-98
+run_uuid: 152d0ee5422647d48503c567a8e44009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721303523650
+status: 3
+tags: []
+user_id: felip

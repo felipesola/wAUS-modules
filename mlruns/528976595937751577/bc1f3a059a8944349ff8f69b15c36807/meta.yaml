@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/bc1f3a059a8944349ff8f69b15c36807/artifacts
+deleted_time: 1721844566996
+end_time: 1720341086077
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: bc1f3a059a8944349ff8f69b15c36807
+run_name: honorable-moth-849
+run_uuid: bc1f3a059a8944349ff8f69b15c36807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720341085270
+status: 4
+tags: []
+user_id: felip

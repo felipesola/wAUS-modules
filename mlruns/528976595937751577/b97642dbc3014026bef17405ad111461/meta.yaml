@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/b97642dbc3014026bef17405ad111461/artifacts
+deleted_time: 1721845932841
+end_time: 1721844551089
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: b97642dbc3014026bef17405ad111461
+run_name: brawny-kite-823
+run_uuid: b97642dbc3014026bef17405ad111461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721844525358
+status: 3
+tags: []
+user_id: felip

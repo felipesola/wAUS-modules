@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/c6de807aab8a4667a53c9ca014a4a3d0/artifacts
+end_time: 1721254560209
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: c6de807aab8a4667a53c9ca014a4a3d0
+run_name: adventurous-ox-725
+run_uuid: c6de807aab8a4667a53c9ca014a4a3d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721254536112
+status: 3
+tags: []
+user_id: felip

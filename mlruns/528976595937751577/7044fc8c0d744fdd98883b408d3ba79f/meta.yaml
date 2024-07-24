@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/7044fc8c0d744fdd98883b408d3ba79f/artifacts
+deleted_time: 1721844567042
+end_time: 1720337817405
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 7044fc8c0d744fdd98883b408d3ba79f
+run_name: enthused-mink-975
+run_uuid: 7044fc8c0d744fdd98883b408d3ba79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720337816649
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/0e4017f818c745cca3a4c174ed339eff/artifacts
+deleted_time: 1721844566928
+end_time: 1720399189000
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 0e4017f818c745cca3a4c174ed339eff
+run_name: fortunate-colt-147
+run_uuid: 0e4017f818c745cca3a4c174ed339eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720399182170
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/99b68508fdef477b8d3892e794ee13b5/artifacts
+deleted_time: 1721844567002
+end_time: 1720340255212
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 99b68508fdef477b8d3892e794ee13b5
+run_name: useful-sponge-456
+run_uuid: 99b68508fdef477b8d3892e794ee13b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720340254474
+status: 4
+tags: []
+user_id: felip

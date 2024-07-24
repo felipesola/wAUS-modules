@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/6c5389ebecc54028ab9fd86006b8ce4b/artifacts
+deleted_time: 1721844566905
+end_time: 1720399431830
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 6c5389ebecc54028ab9fd86006b8ce4b
+run_name: omniscient-hen-595
+run_uuid: 6c5389ebecc54028ab9fd86006b8ce4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720399404804
+status: 3
+tags: []
+user_id: felip

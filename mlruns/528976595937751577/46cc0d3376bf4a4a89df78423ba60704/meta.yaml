@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/46cc0d3376bf4a4a89df78423ba60704/artifacts
+deleted_time: 1721844567047
+end_time: 1720337630691
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 46cc0d3376bf4a4a89df78423ba60704
+run_name: rumbling-fish-747
+run_uuid: 46cc0d3376bf4a4a89df78423ba60704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720337629891
+status: 4
+tags: []
+user_id: felip

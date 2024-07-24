@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/02d5fa8d91bd4d3db02d24e6948917df/artifacts
+end_time: 1721206891521
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: 02d5fa8d91bd4d3db02d24e6948917df
+run_name: legendary-mule-764
+run_uuid: 02d5fa8d91bd4d3db02d24e6948917df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721206866870
+status: 3
+tags: []
+user_id: felip

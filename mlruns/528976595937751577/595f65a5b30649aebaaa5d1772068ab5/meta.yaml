@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/595f65a5b30649aebaaa5d1772068ab5/artifacts
+deleted_time: 1721844566978
+end_time: 1720343003786
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 595f65a5b30649aebaaa5d1772068ab5
+run_name: nimble-fly-713
+run_uuid: 595f65a5b30649aebaaa5d1772068ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720343003014
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/0/db05fb76a4bb45868f40dbfe5306287c/artifacts
+deleted_time: 1720402269200
+end_time: 1720338257980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: db05fb76a4bb45868f40dbfe5306287c
+run_name: gregarious-wolf-618
+run_uuid: db05fb76a4bb45868f40dbfe5306287c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720338257902
+status: 4
+tags: []
+user_id: felip

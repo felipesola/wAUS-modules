@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/c9e830c0653f4e89a08ea1f5ae78001c/artifacts
+end_time: 1721248403455
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: c9e830c0653f4e89a08ea1f5ae78001c
+run_name: welcoming-sponge-886
+run_uuid: c9e830c0653f4e89a08ea1f5ae78001c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721248377294
+status: 3
+tags: []
+user_id: felip

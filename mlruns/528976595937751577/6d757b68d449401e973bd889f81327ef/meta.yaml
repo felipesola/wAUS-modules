@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/6d757b68d449401e973bd889f81327ef/artifacts
+deleted_time: 1721844567067
+end_time: 1720335073370
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 6d757b68d449401e973bd889f81327ef
+run_name: flawless-rat-787
+run_uuid: 6d757b68d449401e973bd889f81327ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720335072679
+status: 4
+tags: []
+user_id: felip

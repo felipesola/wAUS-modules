@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/15f115d72db849fbb0101c0926977d9e/artifacts
+deleted_time: 1721844567030
+end_time: 1720338506735
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 15f115d72db849fbb0101c0926977d9e
+run_name: suave-shrike-754
+run_uuid: 15f115d72db849fbb0101c0926977d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720338505649
+status: 4
+tags: []
+user_id: felip

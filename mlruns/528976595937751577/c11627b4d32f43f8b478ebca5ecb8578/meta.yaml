@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/c11627b4d32f43f8b478ebca5ecb8578/artifacts
+deleted_time: 1721844567071
+end_time: 1720334950615
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: c11627b4d32f43f8b478ebca5ecb8578
+run_name: marvelous-fowl-699
+run_uuid: c11627b4d32f43f8b478ebca5ecb8578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720334949930
+status: 4
+tags: []
+user_id: felip

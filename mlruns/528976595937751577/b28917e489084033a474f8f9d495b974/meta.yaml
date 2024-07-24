@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/b28917e489084033a474f8f9d495b974/artifacts
+deleted_time: 1721844566925
+end_time: 1720399273580
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: b28917e489084033a474f8f9d495b974
+run_name: flawless-sow-529
+run_uuid: b28917e489084033a474f8f9d495b974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720399266864
+status: 4
+tags: []
+user_id: felip

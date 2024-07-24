@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/33d4228cbc904747b5db1fbd615ccfc1/artifacts
+end_time: 1720331480975
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: active
+run_id: 33d4228cbc904747b5db1fbd615ccfc1
+run_name: orderly-jay-407
+run_uuid: 33d4228cbc904747b5db1fbd615ccfc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720331480884
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/felip/DSprojects/wAUS-python/mlruns/528976595937751577/86e9e773a31d44c7a6bdb000da7091bb/artifacts
+deleted_time: 1721844566987
+end_time: 1720341185693
+entry_point_name: ''
+experiment_id: '528976595937751577'
+lifecycle_stage: deleted
+run_id: 86e9e773a31d44c7a6bdb000da7091bb
+run_name: ambitious-loon-718
+run_uuid: 86e9e773a31d44c7a6bdb000da7091bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720341184923
+status: 4
+tags: []
+user_id: felip
